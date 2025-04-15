@@ -1,0 +1,178 @@
+[
+    {
+      "product_id": "LP001",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/TF1zD03/Dell-XPS-13-Plus-1.jpg",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "A powerful ultrabook with stunning display and great battery life.",
+      "Specification": ["Intel i7", "16GB RAM", "512GB SSD", "13.3'' FHD Display"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "LP002",
+      "product_title": "MacBook Air M2",
+      "product_image": "https://i.ibb.co.com/fzcgKGRF/Mac-Book-Air-M2-13-6-inch-8256-GB-midnight-1121.jpg",
+      "category": "Laptop",
+      "price": 1499.99,
+      "description": "Apple's sleek and silent laptop with the new M2 chip.",
+      "Specification": ["Apple M2", "8GB RAM", "256GB SSD", "13.6'' Retina Display"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "LP003",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/ycTkJR8m/HP-Spectre-x360-Convertible-14-EF2013-DX-a-1801.jpg",
+      "category": "Laptop",
+      "price": 1399.99,
+      "description": "A stylish 2-in-1 laptop with touchscreen and long battery life.",
+      "Specification": ["Intel i7", "16GB RAM", "1TB SSD", "13.5'' OLED Touch"],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": "LP004",
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co.com/KzB14YzT/Lenovo-thinkpad-x1-carbon-gen-10-custom-mac-bd.webp",
+      "category": "Laptop",
+      "price": 1599.00,
+      "description": "Business-class laptop with great keyboard and durability.",
+      "Specification": ["Intel i7", "32GB RAM", "1TB SSD", "14'' WUXGA Display"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "AB001",
+      "product_title": "Apple AirPods Pro (2nd Gen)",
+      "product_image": "https://i.ibb.co.com/23SVC9fN/1000005057.png",
+      "category": "Airbuds",
+      "price": 249.99,
+      "description": "Advanced noise-cancelling earbuds with spatial audio.",
+      "Specification": ["Active Noise Canceling", "MagSafe Charging", "H2 Chip"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "AB002",
+      "product_title": "Samsung Galaxy Buds 2 Pro",
+      "product_image": "https://i.ibb.co.com/7dvwtHLM/Galaxy-Buds-2-Pro-1-800x800.jpg",
+      "category": "Airbuds",
+      "price": 199.99,
+      "description": "Compact and powerful wireless earbuds from Samsung.",
+      "Specification": ["ANC", "Bluetooth 5.3", "Hi-Fi 24bit Audio"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "AB003",
+      "product_title": "Sony WF-1000XM5",
+      "product_image": "https://i.ibb.co.com/VYMs2n3r/Sony-WF-1000-XM5-Wireless-Noise-Cancelling-Headphones-Black-1353.jpg",
+      "category": "Airbuds",
+      "price": 279.99,
+      "description": "Industry-leading noise cancellation and sound quality.",
+      "Specification": ["Noise Canceling", "24h Battery", "Hi-Res Audio"],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": "AB004",
+      "product_title": "OnePlus Buds Pro 2",
+      "product_image": "https://i.ibb.co.com/HpxzQgzz/One-Plus-Buds-Pro-2-True-Wireless-Earbuds.jpg",
+      "category": "Airbuds",
+      "price": 149.00,
+      "description": "Premium audio and adaptive ANC for OnePlus fans.",
+      "Specification": ["ANC", "Dolby Atmos", "Dual Drivers"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "SW001",
+      "product_title": "Apple Watch Series 9",
+      "product_image": "https://i.ibb.co.com/8LbfF0gm/Apple-Watch-Series-9-3-6716.jpg",
+      "category": "Smartwatch",
+      "price": 399.00,
+      "description": "Apple’s latest smartwatch with advanced health tracking.",
+      "Specification": ["S9 Chip", "Always-On Display", "Blood Oxygen Sensor"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "SW002",
+      "product_title": "Samsung Galaxy Watch 6",
+      "product_image": "https://i.ibb.co.com/s9cQHmyG/Silver-5859.jpg",
+      "category": "Smartwatch",
+      "price": 349.99,
+      "description": "Elegant design meets fitness and health tracking.",
+      "Specification": ["BioActive Sensor", "Wear OS", "Sleep Coaching"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "SW003",
+      "product_title": "Garmin Venu 2 Plus",
+      "product_image": "https://i.ibb.co.com/QvsVRsPD/venu-2-plus-black-cf-lg.webp",
+      "category": "Smartwatch",
+      "price": 449.00,
+      "description": "GPS smartwatch with AMOLED display and voice assistant.",
+      "Specification": ["GPS", "AMOLED", "Voice Control"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "SW004",
+      "product_title": "Fitbit Sense 2",
+      "product_image": "https://i.ibb.co.com/1GGgxcsP/Fitbit-Sense-2-Advanced-Health-and-Fitness-Smartwatch-6.jpg",
+      "category": "Smartwatch",
+      "price": 299.00,
+      "description": "Track stress, sleep, and heart health in one device.",
+      "Specification": ["EDA Sensor", "Heart Rate", "Sleep Tracking"],
+      "availability": false,
+      "rating": 4.4
+    },
+    {
+      "product_id": "IP001",
+      "product_title": "iPhone 15 Pro",
+      "product_image": "https://i.ibb.co.com/p6XbHKzy/i-Phone-15-Plus-2-6-5363.jpg",
+      "category": "iPhone",
+      "price": 1099.00,
+      "description": "Apple’s most advanced iPhone with titanium design.",
+      "Specification": ["A17 Pro", "48MP Camera", "USB-C"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "IP002",
+      "product_title": "iPhone 14",
+      "product_image": "https://i.ibb.co.com/SDzSZKXD/i-Phone-14-Blue-7810.jpg",
+      "category": "iPhone",
+      "price": 799.00,
+      "description": "All the power you need in a sleek design.",
+      "Specification": ["A15 Bionic", "Dual Camera", "OLED Display"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "IP003",
+      "product_title": "iPhone SE (2022)",
+      "product_image": "https://i.ibb.co.com/8DWBZS2J/swappie-iphone-se-2022-red.jpg",
+      "category": "iPhone",
+      "price": 429.00,
+      "description": "Compact size with great performance and value.",
+      "Specification": ["A15 Bionic", "Touch ID", "4.7'' Retina"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "IP004",
+      "product_title": "iPhone 13 Mini",
+      "product_image": "https://i.ibb.co.com/Xk6DrwCw/images.jpg",
+      "category": "iPhone",
+      "price": 599.00,
+      "description": "Small but powerful iPhone for compact phone lovers.",
+      "Specification": ["A15 Bionic", "5.4'' OLED", "Dual Camera"],
+      "availability": false,
+      "rating": 4.6
+    }
+  ]  
